@@ -1,0 +1,129 @@
+Sorting
+-----------
+bubble sort                        done
+insertion sort                     done
+selection sort                     done
+quick sort                         done
+merge sort                         done
+min/max heap                       done
+merge k sorted arrays              done
+kth largest element in an array    done
+external merge sort                done
+inversion using merge sort         done
+
+
+sliding window problem                done
+maximize no of zero flips             done
+delete a string in trie               done
+
+nuts and bolts problem                done
+sort arrays 0,1,2;
+spiral loop matrix
+rotate matrix by 90
+postfix evaluation
+search an element in an unsorted array using minimum comparision
+
+partition problem
+count all distinct pairs with diff equal to k
+
+given a matrix of size nxn filled with 0 and 1, shortest path to go from 0,0 to n-1 both recursive and D
+in a matrix start fom a particular position, how many way to reach a particular point
+Trapping rain water : given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water is able to trap.
+8 queen problem
+
+
+longest common substring          
+longest common subsequence   
+longest palindromic    
+longest increasing subsequence 
+
+find element in sortd rotated array
+
+binary tree
+------------------
+right/top/bottom view of binary tree
+serialize/deserialize binary tree   
+boundary traversal of binary tree
+if given array repersent preorder traversal of bTree
+Segment tree
+KD tree
+linked list at each level
+next largest in BST and binary tree
+largest BST in binary tree
+print path between two node
+diameter of binary tree
+LCA
+zigzag traversal
+root to leaf path sum
+sum of left leaf node/right leaf node
+inorder successor
+create BST from inorder and preorder / inorder and postorder
+isBST
+
+
+linkedList
+--------------
+remove loop
+intersection of linked list
+dum of two linkedlist
+reverse a linked list recursion, iterative
+check a linked list is palindrome
+
+Dynamic
+-----------
+maximize gold coin
+rod cutting
+given set can be partioioned in 2 subsets with given sum
+
+
+graph
+----------
+BFs/DFS
+topological sorting
+detect cycle in a directed graph
+kruskals
+prims
+dijkastras shortest path
+bellman ford
+all pair shortest path
+
+Java
+----------
+sharding    
+Service locator pattern
+jvm architecture 
+JWT token 
+Different types of NoSQL databases.
+
+Rabbit MQ
+Kafka
+
+
+consistent hashing
+
+Design problem
+-------------------
+Make own hash map done
+LRU cache  done
+Service locator pattern
+design an online oyo room 
+parking problem
+twitter
+whats app
+google shared document 
+Uber
+Distributed logging system
+S3 bucket
+Tiny url
+how git diff works
+
+make web chat application.  //	java-webrtc project//
+
+
+Project architecture
+
+DEWR
+-------------
+Rest template spring
+Hystrix circuit-breaker
+

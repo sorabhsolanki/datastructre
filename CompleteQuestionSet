@@ -1,0 +1,793 @@
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+-----------------------------------------------------------------------------------------------------
+Content:
+
+Mathematical
+Puzzles
+Arrays
+String
+Searching
+Sorting
+Hashing
+Matrix
+Recursion
+Divide & Conquer
+Linked List
+Doubly and Circular Linked Lists
+Stack
+Queue
+Prefix Sum and Sliding Window
+Bit Magic
+Tree
+Binary Search Tree
+Heap
+Graph
+Greedy Algorithms
+Dynamic Programming
+Backtracking
+Trie
+Misc Topics
+Important Links
+============================================================================
+
+Mathematical :
+
+Print the pattern (You only need to write function here)
+Print table (This is a full code problem. Please see sample codes here before attempting the problem)
+Series AP
+Series GP
+Closest Number
+Armstrong Numbers
+Sum of digits of a number
+Reverse digits
+Print the Kth Digit
+Binary number to decimal number
+Jumping Numbers
+GCD of two numbers
+LCM of two numbers
+Add two fractions
+GCD of array
+Factorial of a number
+Compute nPr
+Compute nCr
+Largest prime factor
+Perfect Numbers
+Pair cube count
+Find Nth root of M
+Prime Number
+Sieve of Eratosthenes
+Sum of all prime numbers between 1 and N.
+Pairs of prime numbers
+
+=================================================================================
+Puzzles
+
+Count Squares
+3 Divisors
+Check if four points form a square
+Check for power
+Overlapping rectangles
+Trailing zeroes in factorial
+Angle between hour and minute hand
+Number Of Open Doors
+Triangular Numbers
+Nth Even Fibonacci Number
+Last two digit Fibonacci
+Squares in a Matrix
+Day of the week
+
+===================================================================================
+Arrays :
+
+Array operations (Search, insert, delete)
+Array alternate printing
+Maximum and minimum in an array
+Second largest in array
+Sum of array elements
+Reverse an Array
+Rotate Array
+Count of smaller elements
+Remove duplicate elements from sorted Array
+Count possible triangles
+Leaders in an array
+Minimum distance between two numbers
+Sorted subsequence of size 3
+Maximum Sub Array
+Majority Element
+Wave Array
+Maximum Index
+Max sum path in two arrays
+Product array puzzle
+Find duplicates in a small ranged array
+Find Missing And Repeating
+Stock buy and sell
+Trapping Rain Water
+Pair with given sum in a sorted array
+Chocolate Distribution Problem
+Longest Consecutive subsequence
+Three way partitioning
+
+==========================================================================================
+String :
+
+Check for palindrome
+Check for anagram
+Anagram Palindrome
+Title case conversion
+Sort the string
+Merge two strings
+Save Ironman
+Good or Bad string
+URLify a given string
+Extract Maximum
+Reverse words in a given string
+Implement strstr
+Check for subsequence
+Check for rotation
+Check if two strings are k-anagrams
+Uncommon characters
+Anagram Search
+First repeating character
+First non-repeating character
+Longest Distinct characters in string
+Longest Palindromic Substring
+Find k-th character in string
+Smallest window in a string containing all characters of another string
+Add Binary Strings
+Multiply two Strings
+Nearest multiple of 10
+
+===========================================================================================
+
+Searching :
+
+Linear Search
+Facing the sun
+Magnet Array Problem
+Binary Search
+Floor in a Sorted Array
+Count occurrences in a sorted array
+Search in a sorted and rotated
+Find the missing number
+Missing element of AP
+Square root of a number
+Find Transition Point in a Sorted Binary Array
+Last index of One
+Peak element
+Allocate minimum number of pages
+Common elements in three sorted
+Smallest Positive missing number
+
+==============================================================================================
+Sorting :
+
+Check if array is sorted
+Sort a binary array
+Sort an array of 0s, 1s and 2s
+Bubble Sort
+Insertion Sort
+Selection Sort
+Quick Sort
+Merge Sort
+Sort an array when two halves are sorted
+Relative Sorting
+Triplet Sum in Array
+Minimum Swaps to Sort
+Sorting elements by frequency
+Triplet Family
+Count the triplets
+
+===============================================================================================
+
+Hashing :
+
+Count distinct elements
+Array Subset of another array
+Nuts and Bolts Problem
+Count frequencies of elements
+Check if two arrays are equal or not
+First element to occur k times
+In First But Second
+Non-Repeating Element
+Group Anagrams Together
+Winner of an election
+Check for a pair with given sum
+Count distinct pairs with difference k
+Count pairs with given sum
+Find all four sum numbers
+A Simple Fraction
+Largest Fibonacci Subsequence
+
+=================================================================================================
+
+Matrix :
+
+Transpose of Matrix
+Print Matrix in snake Pattern
+Print a given matrix in spiral form
+Is Sudoku Valid
+Count zeros in a sorted matrix
+Squares in a Matrix
+A Boolean Matrix Question
+Search in row-wise and column-wise sorted
+Find the row with maximum number of 1s
+Count pairs Sum in matrices
+Median In a Row-Wise sorted Matrix
+
+=================================================================================================
+Recursion :
+
+Print Pattern
+Handshakes
+Tower of Hanoi
+Josephus problem
+Recursively remove all adjacent duplicates
+Possible words from Phone digits
+Flood fill Algorithm
+Permutations of a string
+
+===============================================================================================
+Divide & Conquer :
+
+Write your own power function
+Program for n-th Fibonacci Number
+K-th element of two sorted Arrays
+Median of two sorted arrays
+Karatsuba Algorithm
+The Painter’s Partition Problem
+Convex Hull
+Counting inversions
+
+===================================================================================================
+
+Linked List :
+
+Print a Linked List
+Length of a linked list
+Node at a given index in linked list
+Middle of a linked list
+n-th node from end of a linked list
+Delete a node
+Remove every k’th node
+Delete N nodes after M nodes of a linked list
+Delete without head pointer
+Rearrange a linked list
+Segregate even and odd (Using only one traversal)
+Reorder List
+Polynomial Addition
+Insert in a Sorted List
+Swap nodes in pairs
+Reverse a linked list
+Reverse a Linked List in groups of given size.
+Check for palindrome
+Flattening a linked list
+Get intersection point
+Remove duplicates from sorted list
+Remove duplicates from unsorted lists
+Sort a linked list of 0s, 1s and 2s.
+Circular Linked List
+Detect loop in a linked list
+Find length of Loop
+Remove loop in a linked list
+Add two numbers represented by linked lists
+Clone a linked list with random pointers
+Add 1 to a number represented as linked list
+Add two numbers represented as linked list
+Multiply two linked lists
+Merge two sorted linked lists
+Merge Sort on Linked List
+Intersection of Two Linked Lists
+Union of Two Linked Lists
+===============================================================================================================
+Doubly and Circular Linked Lists
+
+Insert a node in Doubly linked list
+Delete node in Doubly Linked List
+Circular Linked List Traversal
+Split a Circular Linked List into two halves
+Insert in Sorted way in a Sorted DLL
+QuickSort on Doubly Linked List
+Merge Sort on Doubly Linked List
+Rotate doubly Linked List by P nodes
+XOR Linked List
+=================================================================================================================
+Stack
+
+Implement Stack using Array
+Implement Stack using Linked List
+Check for balanced parenthesis
+Reverse a stack
+Implement two stacks in an array
+Design a stack with getMin
+The celebrity problem
+Stock Span Problem
+Next Greater Element
+Next Smaller Element
+Longest valid Parentheses
+====================================================================================================================
+Queue and Dequeue
+
+Implement Queue using Linked List
+Implement Queue using Array
+Implement Stack using Queue
+Implement Queue using Stack
+Reversing a Queue
+Circular tour
+============================================================================================================
+Prefix Sum and Sliding Window
+
+Equilibrium Point
+Check if there is a subarray with 0 sun
+Longest Sub-Array with Sum K
+Longest subarray with sum divisible by K
+Largest subarray with equal 1s and 0s
+Longest common span with same number of 1s and 0s among two arrays
+Find mximum sum in any subarray of size k
+Count distinct elements in every window of size k
+Check for subarray with given sum
+=============================================================================================================
+Bit Magic
+
+Check if a number is even or odd.
+Number of bit flips
+Game of XOR
+Find bit at a position
+Swap odd and even bits
+Power of 2
+Odd occurring element
+Missing number in array
+Index Of an Extra Element
+Reverse Bits
+Count set bits
+Power Set
+===========================================================================================================
+Tree
+
+Inorder Traversal
+Preorder Traversal
+Postorder Traversal
+Level order traversal
+Find height of Binary Tree
+Count Leaves in Binary Tree
+Check for Children Sum Property
+Mirror Tree
+Check for Balanced Tree
+Lowest Common Ancestor in a Binary Tree
+Diameter of Binary Tree
+Left View of Binary Tree
+Right View of Binary Tree
+Maximum path sum
+Level order traversal line by line
+Tree from Postorder and Inorder
+Tree from Preorder and Inorder
+Connect Nodes at Same Level
+Zig-Zag level order traversal
+Serialize and Deserialize a Binary Tree
+Leaves to DLL
+Binary Tree to Doubly Linked List
+Binary Tree to Circular Doubly Linked List
+================================================================================================================
+Binary Search Tree
+
+BST Search
+BST Insert
+BST Delete
+Minimum in BST
+Inorder Traversal and BST
+Count BST nodes that lie in a given range
+Add all greater values
+Predecessor and Successor in BST
+Closest Neighbor in BST
+Lowest Common Ancestor in a BST
+Convert Level Order Traversal to BST
+Normal BST to Balanced BST
+Pair with given sum in BST
+Check for BST
+Correct BST with two nodes swapped
+Median of BST
+k-th smallest element in BST
+Unique BST’s
+Array to BST
+Preorder Traversal and BST
+Preorder to Postorder
+Leaf nodes from preorder traversal
+Triplet with 0 sum in BST
+Merge two BST ‘s
+Largest BST Subtree
+================================================================================================================
+Heap
+
+Binary Heap Operations
+Height of Heap
+Heap Sort
+Sort a Nearly Sorted Array
+K Largest Elements
+K-th largest element in a stream
+Median of stream
+Merge k sorted arrays
+=================================================================================================================
+Graph
+
+Print adjacency list
+Breadth First Search
+Depth First Search
+Find whether path exist
+Knight Walk
+Snake and Ladder Problem
+Bipartite Graph
+Detect Cycle in an undirected graph
+Detect Cycle in a directed graph
+Find first n numbers with given set of digits
+Rotten oranges
+Topological sort
+Shortest Source to Destination Path
+Transitive closure of a Graph
+Strongly Connected Components
+==================================================================================================================
+Greedy Algorithms
+
+Fractional Knapsack
+Largest number with given sum
+Activity Selection
+N meetings in one room
+Minimum Platforms
+Minimum number of Coins
+Job Sequencing Problem
+Minimize the heights
+Huffman Coding
+Huffman Decoding
+Minimum Spanning Tree
+Dijkstra for Adjacency Matrix
+=================================================================================================================
+Dynamic Programming
+
+Print first n Fibonacci Numbers.
+Count ways to reach the n’th stair
+Cutted Segments
+Kadane’s Algorithm
+Stickler Thief
+Minimum number of jumps
+Total Decoding Messages
+Min Cost Path
+Coin Change
+Longest Common Subsequence
+Consecutive 1’s not allowed
+Edit Distance
+Rod Cutting
+Water Overflow
+Maximum Tip Calculator
+Longest Increasing Subsequence
+Maximum sum increasing subsequence
+Max length chain
+0 – 1 Knapsack Problem
+Maximum Tip Calculator
+Interleaved string
+Longest Palindromic Subsequence
+Wildcard Pattern Matching
+Box Stacking
+Longest Bitonic subsequence
+Minimum sum partition
+Largest square formed in a matrix
+Word Break
+Matrix Chain Multiplication
+Special Keyboard
+Egg Dropping Puzzle
+Optimal Strategy for a Game
+========================================================================================================================
+
+Backtracking
+
+Rat Maze With Multiple Jumps
+Coins and Game
+Hamiltonian Path
+Solve the Sudoku
+Combination Sum – Part 2
+Combination Sum
+Subsets
+Largest number in K swaps
+M-Coloring Problem
+Black and White
+=======================================================================================================================
+Trie
+
+Trie Search and Insert
+Trie Delete
+Unique rows in a binary matrix
+Count of distinct substrings
+Word Boggle
+========================================================================================================================
+Misc Questions to test your overall learning
+
+Longest common prefix
+Implement Atoi
+Two numbers with sum closest to zero
+Smallest greater elements in whole array
+Max rectangle
+Find triplets with zero sum
+Counting elements in two arrays
+Merge K sorted linked lists
+Maximum Difference
+Circle of strings
+All possible Word Breaks
+Alien Dictionary
+Design a tiny URL or URL shortener
+Implement LRU Cache
+
+======================================================================================================================================================================================================
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
+Arrays :
+-------------------------------------------------
+Subarray with given sum
+Count the triplets
+Kadane’s Algorithm
+Missing number in array
+Merge two sorted arrays
+Rearrange array alternatively
+Number of pairs
+Inversion of Array
+Sort an array of 0s, 1s and 2s
+Equilibrium point
+Leaders in an array
+Minimum Platforms
+Reverse array in groups
+K’th smallest element
+Trapping Rain Water
+Pythagorean Triplet
+Chocolate Distribution Problem
+Stock buy and sell
+Element with left side smaller and right side greater
+Convert array into Zig-Zag fashion
+Last Index of 1
+Spirally traversing a matrix
+Largest Number formed from an Array
+
+String :
+----------------------------------------------------------
+Reverse words in a given string
+Permutations of a given string
+Longest Palindrome in a String
+Recursively remove all adjacent duplicates
+Check if string is rotated by two places
+Roman Number to Integer
+Anagram
+Remove Duplicates
+Form a Palindrome
+Longest Distinct Characters in the string
+Implement Atoi
+Implement strstr
+Longest Common Prefix
+
+Linked List :
+---------------------------------------------------------------
+Finding middle element in a linked list
+Reverse a linked list
+Rotate a Linked List
+Reverse a Linked List in groups of given size
+Intersection point in Y shaped linked lists
+Detect Loop in linked list
+Remove loop in Linked List
+n’th node from end of linked list
+Flattening a Linked List
+Merge two sorted linked lists
+Intersection point of two Linked Lists
+Pairwise swap of a linked list
+Add two numbers represented by linked lists
+Check if Linked List is Palindrome
+Implement Queue using Linked List
+Implement Stack using Linked List
+Given a linked list of 0s, 1s and 2s, sort it
+Delete without head pointer
+
+Stack and Queue :
+-----------------------------------------------------------------
+Parenthesis Checker
+Next larger element
+Queue using two Stacks
+Stack using two queues
+Get minimum element from stack
+LRU Cache
+Circular tour
+First non-repeating character in a stream
+Rotten Oranges
+Maximum of all subarrays of size k
+
+
+Tree :
+------------------------------------------------------------------
+Print Left View of Binary Tree
+Check for BST
+Print Bottom View of Binary Tree
+Print a Binary Tree in Vertical Order
+Level order traversal in spiral form
+Connect Nodes at Same Level
+Lowest Common Ancestor in a BST
+Convert a given Binary Tree to Doubly Linked List
+Write Code to Determine if Two Trees are Identical or Not
+Given a binary tree, check whether it is a mirror of itself
+Height of Binary Tree
+Maximum Path Sum
+Diameter of a Binary Tree
+Number of leaf nodes
+Check if given Binary Tree is Height Balanced or Not
+Serialize and Deserialize a Binary Tree
+Solved the above? Go for some more Questions
+
+Heap :
+----------------------------------------------------------------------
+Find median in a stream
+Heap Sort
+Operations on Binary Min Heap
+Rearrange characters
+Kth largest element in a stream
+Merge K sorted linked lists
+Merge K sorted arrays
+
+Recursion :
+-----------------------------------------------------------------
+Flood fill Algorithm
+Number of paths
+Combination Sum – Part 2
+Special Keyboard
+Josephus problem
+
+
+Hashing :
+----------------------------------------------------------------------
+Relative Sorting
+Sorting Elements of an Array by Frequency
+Largest subarray with 0 sum
+Common elements
+Find all four sum numbers
+Swapping pairs make sum equal
+Count distinct elements in every window
+Array Pair Sum Divisibility Problem
+Longest consecutive subsequence
+Array Subset of another array
+Find all pairs with a given sum
+Find first repeated character
+Zero Sum Subarrays
+Minimum indexed character
+Check if two arrays are equal or not
+Uncommon characters
+Smallest window in a string containing all the characters of another string
+First element to occur k times
+Check if frequencies can be equal
+
+
+Graph :
+-----------------------------------------------------------------------
+Depth First Traversal
+Breadth First Traversal
+Detect cycle in undirected graph
+Detect cycle in a directed graph
+Topological sort
+Find the number of islands
+Implementing Dijkstra
+Minimum Swaps
+Strongly Connected Components
+Shortest Source to Destination Path
+Find whether path exist
+Minimum Cost Path
+Circle of Strings
+Floyd Warshall
+Alien Dictionary
+Snake and Ladder Problem
+
+
+Greedy :
+------------------------------------------------------------------------
+Activity Selection
+N meetings in one room
+Coin Piles
+Maximize Toys
+Page Faults in LRU
+Largest number possible
+Minimize the heights
+Minimize the sum of product
+Huffman Decoding
+Minimum Spanning Tree
+Shop in Candy Store
+Geek collects the balls
+
+
+Dynamic Programming :
+--------------------------------------------------------------------
+Minimum Operations
+Max length chain
+Minimum number of Coins
+Longest Common Substring
+Longest Increasing Subsequence
+Longest Common Subsequence
+0 – 1 Knapsack Problem
+Maximum sum increasing subsequence
+Minimum number of jumps
+Edit Distance
+Coin Change Problem
+Subset Sum Problem
+Box Stacking
+Rod Cutting
+Path in Matrix
+Minimum sum partition
+Count number of ways to cover a distance
+Egg Dropping Puzzle
+Optimal Strategy for a Game
+Shortest Common Supersequence
+
+
+Divide and Conquer :
+--------------------------------------------------------------------
+Find the element that appears once in sorted array
+Search in a Rotated Array
+Binary Search
+Sum of Middle Elements of two sorted arrays
+Quick Sort
+Merge Sort
+K-th element of two sorted Arrays
+
+
+Backtracking :
+-------------------------------------------------------------------------
+N-Queen Problem
+Solve the Sudoku
+Rat in a Maze Problem
+Word Boggle
+Generate IP Addresses
+
+
+Bit Magic :
+-------------------------------------------------------------------------
+Find first set bit
+Rightmost different bit
+Check whether K-th bit is set or not
+Toggle bits given range
+Set kth bit
+Power of 2
+Bit Difference
+Rotate Bits
+Swap all odd and even bits
+Count total set bits
+Longest Consecutive 1’s
+Sparse Number
+Alone in a couple
+Maximum subset XOR
+
+
+Some More Questions on Arrays :
+-----------------------------------------------------------------------------
+Find Missing And Repeating
+Maximum Index
+Consecutive 1’s not allowed
+Majority Element
+Two numbers with sum closest to zero
+Nuts and Bolts Problem
+Boolean Matrix Problem
+Smallest Positive missing number
+Jumping Caterpillars
+
+
+Some More Questions on Strings :
+-------------------------------------------------------------------------------
+Most frequent word in an array of strings
+CamelCase Pattern Matching
+String Ignorance
+Smallest window in a string containing all the characters of another string
+Design a tiny URL or URL shortener
+Permutations of a given string
+Non Repeating Character
+Check if strings are rotations of each other or not
+Save Ironman
+Repeated Character
+Remove common characters and concatenate
+Geek and its Colored Strings
+Second most repeated string in a sequence
+
+
+Some more Questions on Trees :
+------------------------------------------------------------------------------
+Mirror Tree
+Longest consecutive sequence in Binary tree
+Bottom View of Binary Tree
+Lowest Common Ancestor in a Binary Tree
+Binary to DLL
+

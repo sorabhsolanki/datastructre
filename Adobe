@@ -1,0 +1,42 @@
+--> SOLID
+--> DFS (distributed file system)
+--> Cassandra DB
+
+Design Problem
+----------------
+1. Design autocomplete suggestion for google.   --> done
+2. design an elevator system.   --> done
+
+
+algorithms
+===============
+Tree
+------
+Given a binary tree, print out all of its root-to-leaf paths one per line   done
+
+
+LinkedList
+---------------
+revese a linked list  done
+finding loop done
+break loop done
+intersection of two linked list done
+
+
+Array
+---------------
+Palindrome
+All permutation
+Merge overlapping intervals
+write a function to rotate aary of size n by d elements / block swap algorithm
+given a sorted rotated array, find if there is a pair with given sum
+zero no of flips
+maximum minimum of k window size
+check pair with given sum
+majority element
+find the number occuring odd number of times
+find missing number
+leaders in an array
+count inversion in an array using merge sort
+two elemnts whose sum is closest to zero
+

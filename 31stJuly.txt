@@ -1,0 +1,164 @@
+1. partition problem                        done
+2. Reorder the array                        
+3. implement stack using queues             done          --> program required.
+4. count all distinct pairs with diff equal to k  done
+5. right/top/bottom view of binary tree.    done
+6. serialize/deserialize binary tree          done
+7. detect cycle in an undirected graph   
+
+
+Service locator pattern
+design an online oyo room  done
+
+
+jvm architecture
+
+==========================================================
+
+sort arrays 0,1,2;
+spiral loop matrix
+rotate matrix by 90
+postfix evaluation
+nuts and bolts problem
+search an element in an unsorted array using minimum comparision
+given a matrix of size nxn filled with 0 and 1, shortest path to go from 0,0 to n-1 both recursive and D
+in a matrix start fom a particular position, how many way to reach a particular point
+Trapping rain water : given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water is able to trap.\
+
+
+kd tree
+rd tree
+LRU cache
+longest common substring          
+longest common subsequence   done --> make program
+longest palindromic    done --> make program
+longest increasng subsequence done --> make program
+
+
+sharding           done
+Service locator pattern  done
+jvm architecture 
+JWT token    done
+Different types of NoSQL databases.
+
+
+--> Past two projects architecture.
+
+DEWR
+----------
+1. authentication + authorization architecture and its DB
+2. Check all other services.
+
+
+make programme
+---------------
+1. make binary tree from array   done
+2. make BST from array           done
+3. make bt from inoreder and preorder.
+4. make binary tree from inorder and postorder.
+5. check if a given array can represent Preorder traversal in BST.
+6. top k frequent words in a file.
+7. merge k sorted array
+8. quick sort            done
+
+
+
+=====================================================================
+longest common substring
+longest common subsequence
+longest palindromic string
+longest increasing subsequence
+
+Last 2 projects architecture
+
+ISMS training (nagarro)
+
+Graph
+-----
+BFS
+DFS
+Topological sorting
+detect cycle in a directed graph
+detect cycle in an undirected graph
+Kruskals minimum spanning tree
+Prims
+Dijakastras shortest path
+Bellman ford
+all pair shortest path
+
+
+make prograamme
+----------------
+replace row column by 1 if 0 found
+stock price --> unlimited transaction
+            --> k transaction
+rotate matrix by 90 
+sort 0,1,2    done
+
+KD tree
+remove all adjacent duplicate from String
+external merge sort
+sliding window
+sort matrix row wise and column wise
+
+
+design
+------------
+scalable cache design   done
+
+AWS config
+make rule POC
+
+
+JVM architecture
+garbage collection algorithm  -> read
+service locator pattern   done
+==============================================================================================
+
+
+Design
+--------
+Past two projects architecture.
+DEWR architecture
+
+whats app 
+uber              
+ https://quip.com/1R32A12BDoDo
+
+distributed logging.
+consistent hashing.
+sharded counter.
+
+DS&algo
+-------
+KD tree
+RD tree
+external merge sort
+sliding window
+sort matrix row wise and column wise
+no two characters repeat (heap)
+Segment Tree | Set 2 (Range Minimum Query)
+
+https://www.geeksforgeeks.org/maximize-number-0s-flipping-subarray/
+
+
+
+ISMS training complete
+UAN number update
+
+
+1. Given an array of struct nodes, check if all of the nodes are part of a single binary tree and if all nodes of that binary tree are in this array or not.
+2. This was a design kind of question, he wanted me to implement search in contacts list when the keyboard type is T9 (predictive text). Discussed different types of maps we will need to implement and preprocessing needed. How will you do this with a trie? How would you do string matching? Asked me to code the entire solution up.
+3. http://www.spoj.com/problems/BALLOT/
+4. http://www.spoj.com/problems/MARTIAN/
+
+
+
+
+
+
+
+
+
+
+

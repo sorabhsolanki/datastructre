@@ -1,0 +1,48 @@
+Round - 1 
+-----------
+1. sharding                  
+2. sharding vs partitioning  
+3. thread/heap dump          
+4. MVCC
+5. feature in 1.8       
+6. lambda            
+7. diamond problem / how it is being handled
+8. Functional interfaces
+9. Default and static methods interfaces
+10. filter vs interceptor (which will get called first)  
+11.  Dispatcher servlet       
+12. Diff design patterns
+13. spring bean life cycle
+14. diff garbage collection algorithms 
+15. transaction isolation levels    
+16. objct ID in mongo DB            
+17. CAP theorem (mongo DB staisfies which one)   
+18. diff b/w parallel and concurrent mark and sweep
+19. mongodb profiler and GRID FS
+
+Round - 2 
+-----------
+1. Level order traversal
+2. Check if a string is substring of another String (KMP)
+3. Max path sum binary tree
+
+Round -3
+----------
+1. Design maven
+2. how Oauth2 works
+3. Oauth2 + FB
+4. how https works
+5. how to integrate https at reverse proxy level and at tomcat level
+6. question on scaling.
+7. design online bus booking system {how to design cache for this, how will system behave in peak load}
+8. how to check logs on percentile method
+9. shortest path
+10. beahvioural questions.
+11. permutation having repeted element
+
+Round - 4
+-----------
+1. there are various modules like seller, price and others which are getting updates like 2000 updates/sec, design search system where
+user can search the product by name and in response he will get the all the product meta data like seller, price etc
+2. beahvioural questions.
+

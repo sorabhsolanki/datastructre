@@ -1,0 +1,49 @@
+LinkedList
+-----------
+finding loop   done
+break loop  done
+intersection of two linked list  done
+
+
+
+video streaming
+-------------------
+make environmanet up and ruinning.  done
+
+Video repository
+--------------------
+make environment up and running.  done
+
+
+WellNest
+------------
+build backend
+deploy backend on AWS via docker
+
+Array
+---------------
+Palindrome  done
+All permutation  done
+print all substring  done
+print all subsequence done
+
+Merge overlapping intervals
+write a function to rotate aary of size n by d elements / block swap algorithm
+given a sorted rotated array, find if there is a pair with given sum
+zero no of flips
+Move all negative numbers to end
+
+
+DFS -> distributed file system
+HDFS -> hadoop distributed file sysytem
+
+
+ownCloudStorage
+------------------
+myowncloudstorage --> GoDaddy domain
+
+login
+upload file with metadata i.e. tags
+search file via name/tags
+audio/video streaming capability
+

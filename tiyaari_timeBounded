@@ -1,0 +1,381 @@
+Arrays
+--------------
+    
+--> zero matrix                              
+--> check for balanced paranthesis           
+--> all permutation of given string          
+--> find missing no                          
+--> majority element                         
+--> find no occuring odd no of time          
+--> next greater element                     
+--> search element in sorted rotated array   
+--> Rotate bits of a number                  
+--> sorted insert for circular linked list   
+--> implement stack using queue              
+--> find 4 elements sum to a given value     
+--> find subarry with given sum with nonnegative 
+--> find subarry with given sum with negative numbers 
+--> merge two sorted linked list (iterative and recursive)  
+--> the celebertiy problem      
+--> next greater element                 
+
+
+--> nuts and bolts problem              --> done
+--> quick sort                          --> done
+--> merge sort                          --> done
+--> count inversion using merge sort    --> done
+--> postfix evaluation                  --> done
+--> 0,1,2                               --> done
+--> given a series of number make largest number   --> done
+--> sliding window problem {maximum of all subarrays of size k}  --> done
+--> job sequencing problem                             --> done
+--> minimum element at any given time (stack problem)  --> done
+--> no of zero flips                                   ---> done         
+--> median of two sorted arrays     --> done
+--> activity selection problem      --> done
+--> spiral loop matrix             --> done
+--> check balanced paranthesis    --> done         
+---> program to make balanced parenthesis --> done
+--> permutation                 --> done
+--> next greater element   --> done
+
+--> merge sort for linked list    --> done
+--> merge two sorted linkedlist   --> done
+--> find element in sorted rotated array   --> done
+--> if linkedlist is palindrome         --> done           
+--> reverse a linked list          --> done
+
+
+--> print array in zig zag fashion   --> done
+--> KMP algorithm   --> done {make programme}
+--> trapping rain water
+--> left rotate array by k elements 
+--> rotate array by GCD 
+--> (given-n-appointments-find-conflicting-appointments)  
+--> max sum of k size window                 
+--> largest rectangular area in hisotgram
+--> print unique row in a given boolean matrix     
+--> largest 1s in matrix                           
+--> two elements whose sum closest to zero         
+--> largest subarray closest sum to 0              
+--> Prefix Sum Array – Implementation and Applications in Competitive Programming 
+--> Equilibrium index of an array
+--> water trapping problem
+--> no two subsequent words should be same (heap question)
+
+--> subarry sum equal to 0   --> done
+--> largest subarray sum equal to zero --> done
+--> 0,1s stream find max sub array to find equal no of 1 and zeros.  --> done
+--> subarry closest sum to zero
+--> subarray closest sum to k
+
+
+---> top hire
+
+
+
+
+Trees
+-----------
+--> print nodes k distance away from root                     --> done
+--> Print all nodes at distance k from a given node       
+--> Print all nodes that are at distance k from a leaf node   --> done 
+--> make mirror image      --> done
+--> check if two trees are mirror   --> done 
+--> print all k-sum path in binary tree  
+--> binary tree to DLL                  --> done
+--> if binary tree is heght balanced  
+--> max width of binary tree    
+--> convert a tree to its sum tree  
+--> root to leaf path sum to a given value 
+--> Diameter of a Binary Tree    
+--> check if bnary tree is BST         --> done
+--> distance between two nodes
+--> LCA
+--> left/right/top/bottom    --> done
+--> vertical sum/ diagnol sum   --> done
+--> diognal dum of binary tree --> done
+--> preorder is valid BST https://www.geeksforgeeks.org/check-if-a-given-array-can-represent-preorder-traversal-of-binary-search-tree/ 
+--> Reverse alternate
+--> trim a binary search tree
+--> max path sum   --> done
+
+Graphs
+--------
+--> unon find algo
+--> check cycle
+--> BFS/DFS
+--> totpologocal sorting
+--> Dijkastras
+--> kruskals
+
+
+DP
+----------
+              
+--> DP (Longest increasing subsequence) --> done (On^2)
+--> DP (longest common subsequence)   --> done (make programme)
+--> DP (longest palindromic subsequence)  --> done (make programme) 
+--> DP (knapsack problem) 
+--> DP (egg dropping problem)            
+--> DP (Edit distance)                ---> done (make programme)   
+--> coin change problem
+--> word break problem https://www.geeksforgeeks.org/word-break-problem-using-backtracking/, https://www.geeksforgeeks.org/word-break-problem-dp-32/
+
+
+
+Design
+-----------
+--> hash map  --> done
+--> LRU cache  --> done
+--> distributed cache --> done
+
+--> parking
+--> whats app
+--> uber
+--> distributed cache
+--> file system
+--> tiny url
+--> top K frequent words
+
+
+--> oAuth2 wit FB
+
+
+Java
+-----------
+1. sharding                  --> done
+2. sharding vs partitioning  --> done
+3. thread/heap dump          --> done
+4. MVCC
+
+5. feature in 1.8           --> done   
+6. lambda                   --> done
+7. diamond problem / how it is being handled   --> done
+8. filter vs interceptor (which will get called first)  --> done
+
+9.  Dispatcher servlet        --> done
+10. Diff design patterns
+11. spring bean life cycle
+12. diff garbage collection algorithms  --> done
+13. transaction isolation levels    --> done
+14. objct ID in mongo DB            --> done
+15. CAP theorem (mongo DB staisfies which one)   --> done
+16. diff b/w parallel and concurrent mark and sweep --> done
+17. mongodb profiler and GRID FS
+
+What are optional, function, supplier, predicate
+
+REST which method is idempotent.
+
+Streams
+Functional interfaces
+Lambda
+Default and static methods interfaces
+optional
+DateTime
+
+OAuth2
+Fb + OAuth2
+https
+
+solid design principles
+
+Hibernate
+-----------
+inheritance
+n+1 problem
+onetoone manytomany
+optmistic vs pessimitic locking
+
+Rabbit MQ
+Kafka
+
+
+Design patterns
+-------------------
+factory
+decorator
+template
+
+Current project (websocket and all other specification)
+
+
+Micorserives 
+---------------
+circuit breaker
+
+
+================================================================================================================
+1. Write a program to convert a integer to its form in a given language .
+
+2. Find the top k frequent items in a stream of numbers Space O(k)
+
+3. number of ways to reach from starting point to last point in a maze.  --> done
+
+4. Given a 2 D array with m Entry points (which are on the edges) and n exit points which are on the edges give the total number of paths that are possible.
+
+5.Design a key value pair storing system in a distributed system
+Questions on types of caching in distributed systems , Sharding
+How will you be handling scalability , failover and latency.
+
+
+https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/     --> done
+ spiral matrix ---> done
+
+topological sorting  --> done
+
+Rearrange a given linked list in-place.  --> done
+
+Gold Mine Problem
+Vertical Sum in a binary tree
+Multiplication of matrices
+
+==================================================================================================================================
+1. JDBC connection pooling
+2. Distributed cache Key value store  (implement hash map)
+3. rat in a maze
+4. wight queen problem
+5. knight tour problem
+
+level order traversal in spiral form
+rotate matrix by 90
+Print left view/right view/ bottom/top of binary tree
+Immutable classes.
+Discussion on hashmap. Why default size of hashmap is 16, why not 14 or 15.
+Discussion on Java 8 features. Why we should use streams, what’s the advantage.
+Design a data structure that supports insert, delete, search and getRandom in constant time
+https://www.geeksforgeeks.org/print-valid-words-possible-using-characters-array/
+immutable class in java
+lca in binary tree
+singelton design pattern
+Given sorted array with 0′ and 1’s, find the array index where 1’s starts. I think I discussed well and communicated my thoughts well.
+Code to compute max subarray sum and handle a case with all negative numbers.
+Shift linked list by k elements
+merge sort / Iterative merge sort
+merge sort linked list
+
+Graph
+--------------
+BFS/DFS
+kruskals algo
+Dijkastras
+find cycle in directed graph (DFS approach)
+union find algo
+find cycle in undirected graph (union find algo)
+
+
+DP
+----------
+              
+--> DP (Longest increasing subsequence) 
+--> DP (longest common subsequence)   
+--> DP (longest palindromic subsequence) 
+--> DP (knapsack problem) 
+--> DP (egg dropping problem)            
+--> DP (Edit distance)                   
+--> coin change problem
+--> word break problem https://www.geeksforgeeks.org/word-break-problem-using-backtracking/, https://www.geeksforgeeks.org/word-break-problem-dp-32/
+
+
+=========================================================================================================================================================
+
+1. Given a 1D Array. Return True if there exists an element where a[i]+a[j] = 0 && i!=j.   --> done
+https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/
+
+2. Buy and Sell of stock and gain maximum profit. Only 1 unit to buy or sell at a time.  --> done
+https://www.geeksforgeeks.org/stock-buy-sell/
+
+3. Given a Tree (it was a BST), replace the data of all nodes which have data >= the node’s data. --> done
+https://www.geeksforgeeks.org/add-greater-values-every-node-given-bst/
+
+4. Print min & max (both) of all subarray of size k
+https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/   --> done
+
+5. Find the k most frequent words from a file (or a stream of input)    --> done
+https://www.geeksforgeeks.org/find-the-k-most-frequent-words-from-a-file/
+
+6. but and sell stock with k transaction max (DP problem)  --> done
+
+7. find 4 elements sum to a given value --> done
+
+============================================================================================================================================================
+--> DP (knapsack problem)
+--> Check for anagram
+--> Anagram Palindrome
+--> Design twitter
+
+=====================================================================================
+1. Write a program to get all list of nodes without siblings in Binary tree  --> done
+2. Get all nodes K distance away from leaf nodes
+3. Implement my own Connection pooling
+4. Given a linked list, write a function to reverse every k nodes
+Inputs: 1->2->3->4->5->6->7->8->NULL and k = 3
+Output: 3->2->1->6->5->4->8->7->NULL.
+5. Given a string, find the longest substring which is palindrome. For example, if the given string is “forgeeksskeegfor”, the output should be “geeksskeeg”
+
+6. https://stackoverflow.com/questions/10657503/find-running-median-from-a-stream-of-integers
+
+
+Design
+-------
+--> Given Channel, Program and TRP ratings, How do you consume those at server side,
+and what do you do to retrieve specific data like 1Get all programs in given channel where TRP is > 10.
+--> Serach engine indexing and data structures --> https://www.youtube.com/watch?v=CeGtqouT8eA
+--> WhatsApp system design
+
+
+
+--> reverse linkedlist recursive  --> done
+--> reverse array recursive   --> done
+--> merge two sorted linked list (recursive/iterative)  --> done
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Recursion
+-------------
+combinational sum     --> done
+special keyboard      --> make programme
+josephus problem      --> make programme
+
+suffix tree
+suffix array
+segmnt tree
+trie
+
+--> KMP algorithm
+
+sqrt decomposiition
+stieve of arosthenes
+
+Heap
+---------------
+Find median in a stream  --> done
+Heap Sort --> done
+Operations on Binary Min Heap   --> done
+Rearrange characters  --> done
+Kth largest element in a stream  --> done
+Merge K sorted linked lists   --> done
+
+--> AVL tree
+
+Back tracking
+--------------
+n queen problem  --> done
+rat in a maze  --> done
+word boggle  --> done
+generate ip addresses  --> done
+solve the sudoku
+
+--> find subarry with given sum with negative numbers 
+--> print zigzag/diagonal order of a matrix.
+
+--> subsort array find m and n {https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/}   --> done
+--> make programme for rate limitter
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--> find the longest palindrome in a string.
+--> find longest increasing subsequence
+--> find the longest common substring
+
+
+

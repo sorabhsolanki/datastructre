@@ -1,0 +1,67 @@
+1. in a matrix start fom a particular position, how many way to reach a particular point
+2. product of maximum in first array and minimum in second
+3. find winner of an election where votes are represented as candidate names.
+4. Most frequent word in an array of strings
+5. intersecting node in a linked list
+6. find k frequent words in a file
+7. delete a string in a trie.
+8. program to rearrange characters that no two chareacters are same.
+9. subset sum problem in O(sum) space
+10. Connect node at same level
+11. Reverse a linked list
+12. reverse a linked list in groups
+13. loop in linked list
+14. spiral loop matrix
+15. rotate matrix by 90
+16  postfix evaluation
+17. nuts and bolts problem
+18. search an element in an unsorted array using minimum comparision
+19. find longest increasing subsequence in circular manner
+20. multiply large nos. represented as strings
+21. find whether there is a path between two cells in a matrix
+22. given a matrix of size nxn filled with 0 and 1, shortest path to go from 0,0 to n-1 both recursive and DP
+23. can we do array[i] = i++;
+24. pots of gold arranged in a line, each combinning some gold coins, the objective is to maximize the gold coins.
+25. construct binary tree from postorder and inorder.
+26. check if a given array can represent Preorder traversal in BST.
+27. Trapping rain water : given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water is able to trap.\
+28. Serialize and deserialize a binary tree
+29. right view of binary tree | top and bottom view
+30. detect cycle in an undirected graph
+31. count all distinct pairs with difference equal to k.
+32. implement stack using queues.
+33. DP : partition problem : whether a given set can be partitioned in two subset with same sum.
+34. count inversions in an array using merge sort.
+35. Binary tree to its mirror.
+
+
+
+suffix tree -> https://www.youtube.com/watch?v=aPRqocoBsFQ
+
+
+
+Puzzle
+===========
+1. 100 balls are there 50 are red & 50 are blue, put them in 2 jars in such a way that probability of picking a ball is always a red ball.
+2. blue cap red cap problem.
+
+Design
+------------
+1. count service
+2. twitter
+3. tiny url
+4. whats app
+5. youtube
+6. instagram
+7. how load balancer works
+8. google doc
+9. design a parking lot
+10.shortest range in k sorted lists
+
+
+1. Design URL Shortener
+2. Design Search Typeahead
+3. Design Messenger
+4. Design Twitter
+5. design an elevator system
+6. Design autocomplete suggestion for google.

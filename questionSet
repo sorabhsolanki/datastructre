@@ -1,0 +1,55 @@
+questions
+---------------
+
+LRU cache               
+Distributed LRU cache   
+
+Java
+------
+	How hash map works internally ?                                  
+	hashcode and equals method usgae in case of hashMap?       
+	custom class object needs to be used as key ? what are the changes req.  
+	hashmap vs treemap vs linkedhashmap    
+
+	What are immutable classes? Name some those. 
+	How to make your own class immutable.   
+
+        interfaces vs abstract class ?
+        what is polymorphism in java ?
+
+	Collections.sort --> which algorithm it uses
+	how priority queue works internally.
+	Code for Singelton class.
+
+        what are different ways to start a thread ?
+
+Multithreading :                         
+	Deadlock
+	instance syncronized vs static synchronized
+	ABC sequentially print.
+        Lock vs synchronized
+
+Concurrency :
+	Thread pool
+	ExecutoService
+	CountdownLatch vs Cyclic Barrier
+
+	Advantage of Srping boot
+	What is the purpose of component annotation?
+	What is difference betwen component vs service vs repository annotations.
+J2EE
+---------
+	how servlet works/ its life cycle?
+	how to maintain session in servlets?
+
+	Difference between path param and query param? when to use what.
+	Patch vs POST
+
+mysql -> engines like InnoDB
+         remove all duplicate record
+
+DS
+-------
+Array having 0 ans 1 sort them.
+vertical sum of binary tree.
+remove duplicacy from linked list.

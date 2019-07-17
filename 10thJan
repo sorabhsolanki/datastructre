@@ -1,0 +1,1407 @@
+Arrays
+---------------
+write a function to rotate arry of size n by d elements / block swap algorithm    -> done but do one more time
+Merge overlapping intervals                     done
+given a sorted rotated array, find if there is a pair with given sum
+zero no of flips
+Move all negative numbers to end
+
+own-cloud
+---------------
+make spring mvc frontend project.   --> done make the initial structure.
+All APIs of "video play recording" should use token interceptor or token AOP.   --> Done only completed at helath check
+login module.   
+
+upload file with metadata i.e. tags
+search file via name/tags
+audio/video streaming capability
+
+
+DFS -> distributed file system
+HDFS -> hadoop distributed file sysytem
+
+
+Tax   -> done
+
+Meetup with akhilesh and rachit   -> at 6 pm 371  done
+
+-=========================================================================================================================================
+11th Jan
+
+Vide-play-record
+--------------------
+1. make gracefully closes API
+2. test for live stream
+
+
+Hackothon
+--------------
+1. Start making restaurantService
+  
+--> person can live stream the video
+--> recording of video 
+--> if any body searches the same resto, then he can view that live video or the recorded one.
+
+WellNest
+----------
+1. meetup with Ketan
+2. deploy backend
+
+
+=============================================================================================================================================================================================================
+Binary tree
+---------------------
+mirror image                          done
+print binary tree in vertical order   done
+height of boinary tree                done
+if binary tree is height balanced
+is Binary tree is BST
+Level order traversal
+Successor anfd oredecessor of a node
+least common ancestor
+height of a tree
+
+Arrays
+----------------
+write a function to rotate arry of size n by d elements
+zero no of flips
+
+
+ElasticSearch
+------------------
+Spting boot project around elastic search  done
+CRUD operation             done
+videoIndexer.ai : 
+  take json
+  feed that json
+  make search capability on non null fields.
+
+
+require sample Json ?
+is json nested or flat ?
+can we keep json in separate DB and only keeping id of that in elasticsearch angainst some values.
+
+Own cloud
+---------------
+Complete API to recored libe streaming.
+All APIs of "video play recording" should use token interceptor or token AOP.   --> Done only completed at helath check.
+Feed json from rabbit MQ endpoint.
+
+Design
+--------
+how uber-pool works
+Swiggy distance service
+how google doc works
+
+disuccss with sunny --> how twitter works.
+
+Graph
+------------
+repersentation by adjancey matrix
+repersentation by adjancey list
+
+
+
+----------------------------------------------------------------------------
+21st Jan
+
+1. Knight tour problem    done
+2. eight quen problem     done
+3. rat in a maze          done
+4. shortest path from 0,0 to n-1,n-1
+5. find if there is path between two nodes in matrix
+6. count no . of ways to reach a particular point.
+
+Questions on pattern searching.
+
+Design
+--------
+akhilesh-> twitter
+how uber works
+how uber-pool works
+
+ElastiSearchPOC
+--------------------
+Test
+
+TTX
+-----------
+prepare the list
+
+
+-----------------------------------------------------------------------------------
+23rd Jan
+
+Toptal, HighScalability, InterviewBit,
+
+Design
+----------------
+consistent hashing   done --> make programmme for it.
+how uber works       done
+how uber-pool works  
+Twitter : https://www.infoq.com/presentations/Twitter-Timeline-Scalability
+Instagram  www.educative.io
+Distributed caching LRU cache design.
+
+
+
+Database 
+---------
+geeks
+
+Video-Streaming
+------------------
+resolve bugs
+API for addition of room at runtime
+
+
+youtube channel
+-----------------
+success-in-Tech
+Tech Dummies 
+
+
+Binary Tree
+---------------
+Diagonal sum
+
+
+K nearest neighbour algorithm  done
+
+google s2 library
+euclidean distance   done
+
+different types of load balancer   done   
+gossip protocol                    done
+zooKeeper    
+cluster vs master-slave            done
+Redis clustering    --> {https://www.javacodegeeks.com/2015/09/redis-clustering.html}  done
+ACID vs BASE    done
+CAP theorem     done
+
+If a system is running slow then what all steps you will do?
+
+JVM memory model
+Garbage collection
+
+real time analytics --> Spark/storm  {e.x. for finding the trending}
+
+Kafka
+ElasticSearch
+
+make a project like pastebin
+-------------------------------
+name it BookMarks
+users can add articles or links and tag it like tag java, spring e.t.c.
+
+
+24th Jan
+------------------------------------------------------------------------------------------------
+
+Toptal, HighScalability, InterviewBit
+
+LFU cache deisgn  done
+
+stairs case   done
+factorial   done
+
+Binary Tree
+------------
+Diagonal sum   done
+KD tree/kd tree find minimum  done
+Segment tree
+
+Database questins -> geeks
+
+Design
+----------------
+how uber-pool works  
+Twitter : https://www.infoq.com/presentations/Twitter-Timeline-Scalability
+Instagram  www.educative.io
+Distributed caching LRU cache design.
+
+If a system is running slow then what all steps you will do?
+
+JVM memory model
+Garbage collection
+
+Go throghthe resume of Nikhil Sharma > {make question set}
+
+make a project like pastebin
+-------------------------------
+name it BookMarks
+users can add articles or links and tag it like tag java, spring e.t.c.
+
+Video-Streaming
+------------------
+resolve bugs
+API for addition of room at runtime
+
+
+-------------------------------------------------------------------------
+25th Jan
+
+Video-Streaming
+------------------
+resolve bugs  --> not relevant to live stream
+API for addition of room at runtime  --> done
+
+Segment tree.                         
+write program for zig zag traversal   done
+write program for level order traversal    done
+
+
+Database questions -> geeks done
+
+Design
+----------------
+how uber-pool works
+
+-----------------------------------------------------------------------------------
+28th Jan
+
+WellNest -> fresh setup on a new EC2 machine.   not working on EC2 machine as well
+
+Video-Streaming
+-----------------
+deploy application to new server.   done
+API share with Shubham.            done
+
+Graph
+-----------
+Adjancey matrix       done
+Adjancey list         done
+BFS                   done
+DFS                   done
+Detect loop in graph  done
+Tpological sorting  done
+Prims         done
+Kruskals
+Dijkastras    done
+
+
+nuts and bolt problem   done
+
+median of two sorted array  done
+
+Design
+----------------
+how uber-pool works
+
+---------------------------------------------------------------------------------------
+
+findElement in sorted rotated array  
+no of zero flips  done
+
+----------------------------------------------------------------------------------------
+30th Jan
+
+encode decode problem   done
+
+Vide-Streaming
+--------------
+1. check how to resolve media streaming pipeline : releasing issue.   done
+2. make player endpoint code configurable   done
+3. room 102 should also work.  done
+4. code for getting rid from master webrtc part.    done
+
+Design
+----------
+1. how uber pool works
+2. rule engine
+
+Given a binary tree, print out all of its root-to-leaf paths one per line
+
+Array
+--------
+All permutation
+maximum minimum of k window size
+check pair with given sum in 3 arrays/linkedlist
+two elemnts whose sum is closest to zero
+
+Timesheet
+-------------------------------------------------------------------------------------
+31st Jan
+
+time hseet  --> Done
+
+Video-Streaming
+---------------
+1. make a new git branch or project done
+2. commit the code.  done
+3. deploy on server.      done
+
+Video indexer
+---------------------
+1. elassticsearc poc rename (search-engine)          done
+2. app-server rest api for outer world <will communicate to search-engine via retro fit>  done
+3. Rule engine [make it as a library]
+
+Design
+----------
+1. how uber pool works
+2. rule engine
+
+Given a binary tree, print out all of its root-to-leaf paths one per line --> done
+
+Array
+--------
+All permutation
+maximum minimum of k window size
+check pair with given sum in 3 arrays/linkedlist
+two elemnts whose sum is closest to zero
+
+
+geeks
+----------
+hadoop-an-introduction
+apachen hive
+-----------------------------------------------------------------------------------
+
+Video indexer
+---------------------
+1. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+2. Rule-Engine  <hold it>
+3. make auth service
+4. make API inside app-sevrer which will use auth.
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Design
+----------
+1. how uber pool works
+2. rule engine
+
+Array
+--------
+All permutation                        done
+maximum minimum of k window size       
+check pair with given sum in 3 arrays/linkedlist
+two elemnts whose sum is closest to zero
+
+geeks
+----------
+hadoop-an-introduction
+apachen hive
+-----------------------------------------------------------------------------------------
+4th Feb
+
+Video indexer
+---------------------
+1. make auth service                                       done
+2. make API inside app-sevrer which will use auth.
+3. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Array
+--------
+maximum minimum of k window size                        done
+check pair with given sum in 3 arrays/linkedlist     done     
+two elemnts whose sum is closest to zero         done
+
+Design
+----------
+1. how uber pool works
+
+geeks
+----------
+hadoop-an-introduction
+apachen hive
+-----------------------------------------------------------------------------------------------
+5th Feb
+
+Video indexer
+---------------------
+1. make API inside app-sevrer which will use auth.  done
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make table user_video                  done
+4. make API to search to this users video table according to anonymous and loggedIn user.
+5. change user_type to user_role, add email into user table, keep ip in auth_token, keep expire_time in auth_token
+   keep user_role_id inside user table.
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Array
+--------
+1. max sum contigous/non contigous sub array.   done
+2. longest increasing subsequence              
+3. find all subarray/sequence and subsequnce.   
+4. search an element in a sorted rotated array.
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+
+Design
+----------
+1. how uber pool works        
+2. drop box/google drive             done
+https://www.geeksforgeeks.org/a-search-algorithm/
+
+geeks
+----------
+hadoop-an-introduction
+apachen hive
+
+SOLID design principle
+
+Start reading Cassandra DB
+-------------------------------------------------------------------------------------------------
+6th feb
+
+Video indexer
+---------------------
+1. change user_type to user_role, add email into user table, keep ip in auth_token, keep expire_time in auth_token   done
+   keep user_role_id inside user table.                                                                                 
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr / make java hadoop client example.
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Array
+--------
+1. find all subarray/sequence and subsequnce.   
+2. longest increasing subsequence              
+3. search an element in a sorted rotated array.
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}
+3. bookMyShow       done
+
+geeks
+----------
+hadoop-an-introduction
+apachen hive
+Hbase
+apache zookeeper
+spark,storm
+
+SOLID design principle
+
+Start reading Cassandra DB
+
+Dewr
+------
+1. get all latest code
+2. complete testing of auth service
+-------------------------------------------------------------------
+7th feb
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Array
+--------
+1. find all subarray/sequence and subsequnce.   done
+
+2. https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/  done
+3. https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/     done
+
+3. search an element in a sorted rotated array.
+
+
+DP problems
+------------------
+https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
+
+4 . fibbonaaci by dp    done
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Longest Common Subsequence
+Edit Distance
+Minimum Partition
+Ways to Cover a Distance
+Longest Path In Matrix
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}
+
+geeks
+----------
+hadoop-an-introduction  geeks
+https://www.guru99.com/learn-hdfs-a-beginners-guide.html
+
+apachen hive
+Hbase
+apache zookeeper
+spark,storm
+
+SOLID design principle
+
+Start reading Cassandra DB
+
+Dewr
+------
+1. get all latest code      done
+2. complete testing of auth service  done
+
+spring initailizer : https://start.spring.io/
+
+---------------------------------------------------------------------------------
+11th Feb
+
+Video-Streaming
+---------------
+1. deploy and test new APIs                                 done
+2. Design how to feed live stream to repository.
+
+Array
+--------
+1. search an element in a sorted rotated array.
+
+Longest Common Subsequence
+Edit Distance
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+
+-----------------------------------------------------------------------------------
+14th Feb
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+
+Video indexer
+---------------------
+1. Make service for integration of JSON
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr / make java hadoop client example.
+
+Array
+---------------
+1. search an element in a sorted rotated array.
+2. Largest Rectangular Area in a Histogram
+3. largest region in boolean matrix
+4. Tim sort https://www.youtube.com/watch?v=Yk4CBisILaw&t=80
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+3. find the largest BST subtree in a given binary tree
+
+Garbage collection algorithms
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}   done
+3. whatsApp {https://www.youtube.com/watch?v=L7LtmfFYjc4}  {https://www.youtube.com/watch?v=vvhC64hQZMk}  done
+4. bloom filter https://www.youtube.com/watch?v=Bay3X9PAX5k
+5. design an elevator system --> Done
+6. Twitter design https://www.youtube.com/watch?v=wYk0xPP_P_8
+
+
+--> Given n appointments, find all conflicting appointments
+--> https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+
+SQL and NoSql Dbs : https://www.youtube.com/watch?v=xQnIN9bW0og    donex`
+Quorun (gossip protocol) {distributed env.}
+
+
+Read
+-----
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed 
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Ways to Cover a Distance(Count n stairs)               --> Done
+Longest Path In Matrix
+Longest Common Subsequence
+Edit Distance
+Minimum Partition
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+-----------------------------------------------------------------------------------------------------------------------------
+18th Feb
+
+--> apply wfh for 13th Feb
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Video indexer
+---------------------
+1. Make service for integration of JSON
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr / make java hadoop client example.
+
+Array
+---------------
+1. search an element in a sorted rotated array.
+2. Largest Rectangular Area in a Histogram
+3. largest region in boolean matrix
+4. Tim sort https://www.youtube.com/watch?v=Yk4CBisILaw&t=80
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+3. find the largest BST subtree in a given binary tree
+
+Garbage collection algorithms
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}                           done
+3. whatsApp {https://www.youtube.com/watch?v=L7LtmfFYjc4}  {https://www.youtube.com/watch?v=vvhC64hQZMk}  done
+4. bloom filter https://www.youtube.com/watch?v=Bay3X9PAX5k
+5. design an elevator system --> Done
+6. Twitter design https://www.youtube.com/watch?v=wYk0xPP_P_8
+7. https://www.youtube.com/watch?v=DUbEgNw-F9c {redis distributed cache}
+8. Auto suggestion {https://www.youtube.com/watch?v=xrYTjaK5QVM}
+
+--> text editor opeartions
+
+
+--> Given n appointments, find all conflicting appointments
+--> https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+
+SQL and NoSql Dbs : https://www.youtube.com/watch?v=xQnIN9bW0og    done
+Quorun (gossip protocol) {distributed env.}
+
+
+Read
+-----
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed done
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Ways to Cover a Distance(Count n stairs)                        --> Done
+Longest Path In Matrix and longest increasing path in matrix    --> Done
+Longest Common Subsequence
+Edit Distance
+Minimum Partition
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+---------------------------------------------------------------------------------------------------------------------------------------------
+20th feb
+
+--> apply wfh for 13th Feb --> Done
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Video indexer
+---------------------
+1. Make integrator-service
+        --> take configuration from DB.  --> Done
+        --> multi-consumers   
+        --> taskPool
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr / make java hadoop client example.
+
+--> rate limitter in java via ringBuffer/concurrency issue 
+--> how to implement rate limitter inside Redis 
+--> https://dzone.com/articles/how-does-spring-transactional
+
+Array
+---------------
+1. search an element in a sorted rotated array.
+2. Largest Rectangular Area in a Histogram
+3. largest region in boolean matrix
+4. Tim sort https://www.youtube.com/watch?v=Yk4CBisILaw&t=80
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+3. find the largest BST subtree in a given binary tree
+
+Garbage collection algorithms
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}                           done
+3. whatsApp {https://www.youtube.com/watch?v=L7LtmfFYjc4}  {https://www.youtube.com/watch?v=vvhC64hQZMk}  done
+4. bloom filter https://www.youtube.com/watch?v=Bay3X9PAX5k
+5. design an elevator system --> Done
+6. Twitter design https://www.youtube.com/watch?v=wYk0xPP_P_8
+7. https://www.youtube.com/watch?v=DUbEgNw-F9c {redis distributed cache}
+8. Auto suggestion {https://www.youtube.com/watch?v=xrYTjaK5QVM}
+9. Tiny url https://www.youtube.com/watch?v=JQDHz72OA3c
+
+--> text editor opeartions
+
+
+--> Given n appointments, find all conflicting appointments
+--> https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+
+SQL and NoSql Dbs : https://www.youtube.com/watch?v=xQnIN9bW0og    done
+Quorun (gossip protocol) {distributed env.}
+
+
+Read
+-----
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed done
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Ways to Cover a Distance(Count n stairs)                        --> Done
+Longest Path In Matrix and longest increasing path in matrix    --> Done
+Longest Common Subsequence   --> Done {watch the youtube video} --> make program
+Edit Distance      --> done make programme
+Minimum Partition
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+
+
+DP others
+--------------
+Minimum replacements to make adjacent characters unequal in a ternary string | Set-2
+Minimum cost to reach a point N from 0 with two different operations allowed
+Check if it is possible to get back to 12'0 clock only by adding or subtracting given seconds
+Printing Matrix Chain Multiplication (A Space Optimized Solution)
+Minimum Operations to make value of all vertices of the tree Zero
+Minimum Cost to make two Numeric Strings Identical
+Maximum path sum in an Inverted triangle | SET 2
+Ways to place K bishops on an N×N chessboard so that no two attack
+Count no. of ordered subsets having a particular XOR value
+Ways to write N as sum of two or more positive integers | Set-2
+Possible cuts of a number such that maximum parts are divisible by 3
+Number of balanced bracket expressions that can be formed from a string
+Count of Numbers in a Range divisible by m and having digit d in even positions
+Minimum sum falling path in a NxN grid
+Maximum length subsequence such that adjacent elements in the subsequence have a common factor
+
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+------------------------------------------------------------------------------------------------------------------------
+21st feb
+
+--> make Base62 convertor of a decimal no. --> Done
+--> zoo keeper
+
+Video-Streaming
+---------------
+1. Design how to feed live stream to repository.
+
+Video indexer
+---------------------
+1. Make integrator-service
+        --> take configuration from DB.  --> Done
+        --> multi-consumers   
+        --> taskPool
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr / make java hadoop client example.
+
+--> rate limitter in java via ringBuffer/concurrency issue 
+--> how to implement rate limitter inside Redis 
+--> https://dzone.com/articles/how-does-spring-transactional
+
+--> reverse stack recursively.  --> done
+
+Array
+---------------
+1. search an element in a sorted rotated array.
+2. Largest Rectangular Area in a Histogram  --> done   {make programme by pencil}
+3. largest region in boolean matrix  --> done           
+4. Tim sort https://www.youtube.com/watch?v=Yk4CBisILaw&t=80
+
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+Tree
+---------
+1. Segment tree
+2. Binary indexed tree
+3. find the largest BST subtree in a given binary tree
+4. serialize deserialize BST
+
+Garbage collection algorithms
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}                           done
+3. whatsApp {https://www.youtube.com/watch?v=L7LtmfFYjc4}  {https://www.youtube.com/watch?v=vvhC64hQZMk}  done
+4. bloom filter https://www.youtube.com/watch?v=Bay3X9PAX5k
+5. design an elevator system --> Done
+6. Twitter design https://www.youtube.com/watch?v=wYk0xPP_P_8
+7. https://www.youtube.com/watch?v=DUbEgNw-F9c {redis distributed cache}
+8. Auto suggestion {https://www.youtube.com/watch?v=xrYTjaK5QVM}
+9. Tiny url https://www.youtube.com/watch?v=JQDHz72OA3c
+
+--> text editor opeartions
+
+
+--> Given n appointments, find all conflicting appointments
+--> https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+
+SQL and NoSql Dbs : https://www.youtube.com/watch?v=xQnIN9bW0og    done
+Quorun (gossip protocol) {distributed env.}
+
+
+Read
+-----
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed done
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Ways to Cover a Distance(Count n stairs)                        --> Done
+Longest Path In Matrix and longest increasing path in matrix    --> Done
+Longest Common Subsequence   --> Done {watch the youtube video}  --> make programme
+Edit Distance      --> done {make programme}
+Minimum Partition
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+
+DP others
+--------------
+Minimum replacements to make adjacent characters unequal in a ternary string | Set-2
+Minimum cost to reach a point N from 0 with two different operations allowed
+Check if it is possible to get back to 12'0 clock only by adding or subtracting given seconds
+Printing Matrix Chain Multiplication (A Space Optimized Solution)
+Minimum Operations to make value of all vertices of the tree Zero
+Minimum Cost to make two Numeric Strings Identical
+Maximum path sum in an Inverted triangle | SET 2
+Ways to place K bishops on an N×N chessboard so that no two attack
+Count no. of ordered subsets having a particular XOR value
+Ways to write N as sum of two or more positive integers | Set-2
+Possible cuts of a number such that maximum parts are divisible by 3
+Number of balanced bracket expressions that can be formed from a string
+Count of Numbers in a Range divisible by m and having digit d in even positions
+Minimum sum falling path in a NxN grid
+Maximum length subsequence such that adjacent elements in the subsequence have a common factor
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+28th feb
+
+
+--> geeks playlist (https://www.youtube.com/playlist?list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE)
+
+--> kafka
+
+Playlist
+----------
+--> DP (knapsack problem)                --> done
+--> DP (Longest increasing subsequence)  --> done
+--> DP (longest common subsequence)      --> done
+--> DP (egg dropping problem)            --> done
+--> DP (Edit distance)                   --> done
+
+--> top k frequent words  --> done {make programme for reading a file and then count words}
+--> make own hash map
+--> Trie DS           --> done 
+--> Trie DS (delete)   --> make programme
+
+--> k dimensional tree          --> done
+--> k dimensional tree(find min)   --> done
+--> BST delete        --> done {make programme}
+--> K dimensional tree delete   --> {read it}
+--> B tree
+
+--> print array in zig zag fashion   --> done
+--> left rotate array by k elements  --> done
+--> (given-n-appointments-find-conflicting-appointments)  --> done
+--> count inversion using merge sort         --> done
+--> max sum of k size window                 --> done
+--> largest rectangular area in hisotgram    --> done (make programme)
+--> zero matrix                              --> done
+--> check for balanced paranthesis           --> done
+--> no of zero flips                         --> done
+--> all permutation of given string          --> done {understand it more}
+--> find missing no                          --> done
+--> majority element                         --> done
+--> find no occuring odd no of time          --> done
+--> next greater element                     --> done
+--> search element in sorted rotated array   --> done
+--> Rotate bits of a number                  --> done
+--> sorted insert for circular linked list   --> done
+--> implement stack using queue              --> done {make programme}
+--> find 4 elements sum to a given value     --> done {make programme for O(n^2logn)}
+--> find subarry with given sum with nonnegative --> done
+--> find subarry with given sum with negative numbers --> {make programme}            
+--> merge two sorted linked list (iterative and recursive)  --> done
+--> the celebertiy problem                        ---> done
+
+--> if linkedlist is palindrome                    --> done
+--> print unique row in a given boolean matrix     --> done
+--> largest 1s in matrix                           --> done
+--> two elements whose sum closest to zero         --> done
+--> largest subarray closest sum to 0              --> done
+--> Prefix Sum Array – Implementation and Applications in Competitive Programming  --> done
+--> Equilibrium index of an array --> done
+
+--> 0,1 infinite stream of bits divisibe by 3   --> done
+--> rearrange a linked list such that all even odd positioned odes are together --> done
+--> move all zeros to end of array --> done
+--> merge overlapping intervals  --> done
+--> next greater element --> done
+--> Find the smallest window in a string containing all characters of another string --> {make programme}
+--> smallest window that contains all character of string     --> {make programme}
+--> find orignal array from encrypted array       --> {make programme}
+
+--> print nodes k distance away from root (iteratove and recursive)  --> done
+--> Print all nodes at distance k from a given node       --> done {understand it}
+--> Print all nodes that are at distance k from a leaf node   --> done
+--> make mirror image        --> done
+--> check if two trees are mirror   --> done
+--> print all k-sum path in binary tree   --> done
+--> binary tree to DLL  --> done
+--> if binary tree is heght balanced  --> done
+--> max width of binary tree     ---> done
+--> convert a tree to its sum tree  --> done
+--> root to leaf path sum to a given value  --> done
+--> Diameter of a Binary Tree     --> done
+--> check if bnary tree is BST  --> done
+
+--> find middle of a given linked list     --> done
+--> Transform One String to Another using Minimum Number of Given Operation
+
+
+--> activity selection problem
+--> BFS/DFS of graph
+--> topological sorting
+--> kruskals/Prims algo
+--> union find algorithm
+--> detect cycle in Directed graph
+--> detect cycle in undirected graph
+--> shortest path (dijakastras with adjancey list)
+--> graph coloring
+--> job sequnecing problem
+--> rat in a maze
+--> tower of hanoi
+--> paint fill
+--> eight queen
+--> knight tour
+--> exchange coins
+--> stack of boxes
+--> power set
+--> magic index
+--> stair case
+------------------------------------------------------------
+
+--> (airport problem)read write lock  --> done
+--> union find algo
+   --> find cycle by using above (it is used for undirected graph) ---> done
+   --> detect cycle in directed graph (DFS approach)
+--> difference between redis and memcahce.
+--> max sum in contigous subArray.    --> done
+
+--> make Base62 convertor of a decimal no. --> Done
+--> zoo keeper
+
+--> linked list (clone a linked list with next and random pointer)  --> done
+
+Tree
+---------
+1. Segment tree         --> done
+2. Binary indexed tree
+3. find the largest BST subtree in a given binary tree
+4. serialize deserialize BST   --> done
+5. left/right view of tree   --> done
+6. top/bottom view of tree    -->done
+
+Video-Streaming
+---------------
+1. Resolve bug    --> Done
+2. mail when can we schedule the demo. 
+3. Design how to feed live stream to repository.
+
+Video indexer
+---------------------
+1. Make integrator-service
+        --> take configuration from DB.  --> Done
+        --> multi-consumers   
+        --> taskPool
+2. make all app-server rest api for outer world <will communicate to search-engine via retro fit> 
+3. make API to search to this users video table according to anonymous and loggedIn user.                            
+4. Mapr/make java hadoop client example.
+
+--> rate limitter in java via ringBuffer/concurrency issue 
+--> how to implement rate limitter inside Redis 
+--> https://dzone.com/articles/how-does-spring-transactional
+
+--> reverse stack recursively.  --> done
+--> (math.pow) recursive
+
+Array
+---------------
+1. search an element in a sorted rotated array.
+2. Largest Rectangular Area in a Histogram  --> done   {make programme by pencil}
+3. largest region in boolean matrix  --> done           
+4. Tim sort https://www.youtube.com/watch?v=Yk4CBisILaw&t=80
+5. no of zero flips
+
+--> matrix chain multiplication               ---> done
+--> iterative preorder, inorder and postorder    ---> done
+--> make skewed tree maintianing the preorder     {can be done by iterative preorder}
+
+--> how biginteger works in java
+--> knapsack problem.
+--> fractional knapsack problem
+
+----> median of two sorted array {https://www.youtube.com/watch?v=LPFhl65R7ww}
+
+Misc
+------------------------------
+https://www.geeksforgeeks.org/top-25-interview-questions/
+Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+DeadLock example code (Producer & Consumer Code)
+Serialization and related concepts
+
+Garbage collection algorithms
+
+Design
+----------
+1. Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}
+2. Hashing and consistent hashing {https://www.youtube.com/watch?v=bBK_So1u9ew}                           done
+3. whatsApp {https://www.youtube.com/watch?v=L7LtmfFYjc4}  {https://www.youtube.com/watch?v=vvhC64hQZMk}  done
+4. bloom filter https://www.youtube.com/watch?v=Bay3X9PAX5k
+5. design an elevator system --> Done
+6. Twitter design https://www.youtube.com/watch?v=wYk0xPP_P_8
+7. https://www.youtube.com/watch?v=DUbEgNw-F9c {redis distributed cache}
+8. Auto suggestion {https://www.youtube.com/watch?v=xrYTjaK5QVM}
+9. Tiny url https://www.youtube.com/watch?v=JQDHz72OA3c    --> done
+10. rate limitter https://www.youtube.com/watch?v=mhUQe4BKZXs   --> done
+11. design distributed database system (key value pair) https://www.youtube.com/watch?v=rnZmdmlR-2M
+12. design for google analytics.
+13. amazon notification system
+
+
+--> do not selet adjacent and make largets sum
+
+
+--> text editor opeartions
+
+
+--> Given n appointments, find all conflicting appointments
+--> https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+
+SQL and NoSql Dbs : https://www.youtube.com/watch?v=xQnIN9bW0og    done
+Quorun (gossip protocol) {distributed env.}
+
+Read
+-----
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed done
+
+
+
+GoodQuestions and topics
+---------------------------
+1) Lowest common Ancestor (https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+2) A unsorted array of integers is given; you need to find the max product formed my multiplying three numbers. (You cannot sort the array, watch out when there are negative numbers)
+3) Left View of a tree (https://www.geeksforgeeks.org/print-left-view-binary-tree/)
+4) Reversing of Arrays (https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/)
+5) Cache Line, Cache internal concept, RR scheduling
+6) Print the middle of a given linked list (https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+7) Pair wise swap of elements in linked list (https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/)
+8) HashMap internals (http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html)
+9) Double checking Singleton (http://javarevisited.blogspot.in/2014/05/double-checked-locking-on-singleton-in-java.html)
+10) Factory Pattern (http://javarevisited.blogspot.in/2011/12/factory-design-pattern-java-example.html)
+11) Print a given matrix in spiral form (https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+12) DFS on Graph and its representation (https://www.geeksforgeeks.org/graph-and-its-representations/, http://ideone.com/TA4ldc)
+13) Object Oriented concept, Polymorphism , Method overloading, method overriding, Difference between abstraction and encapsulation, Aggregation and Composition
+14) Print nth last node in linked list
+15) Delete a given node in Linked List under given constraints (https://www.geeksforgeeks.org/delete-a-given-node-in-linked-list-under-given-constraints/)
+16) Implement Stack using Queues(https://www.geeksforgeeks.org/implement-stack-using-queue/)
+17) Find if two rectangles overlap (https://www.geeksforgeeks.org/find-two-rectangles-overlap/)
+18) Multithreading concepts
+19) Given an array of integers, update the index with multiplication of previous and next integers,
+   e.g. Input: 2 , 3, 4, 5, 6
+        Output: 2*3, 2*4, 3*5, 4*6, 5*6
+20) Difference of creating threads in Java using Thread and Runnable
+21) How hashset is implemented in Java internally.
+22) DeadLock example code (Producer & Consumer Code)
+23) Find the number which is not repeated in Array of integers, others are present for two times.
+e.g. Input : 23, 34,56,21,21,56,78,23, 34        
+     Output: 23
+     Hint: USE XOR
+24) Serialization and related concepts.
+25) Comparators in TreeSet
+
+
+2. longest increasing subsequence solved by DP time complexity O(n^2) 
+    --> solve it in O(nlogn)
+
+Ways to Cover a Distance(Count n stairs)                        --> Done
+Longest Path In Matrix and longest increasing path in matrix    --> Done
+Longest Common Subsequence   --> Done {watch the youtube video}  --> make programme
+Edit Distance      --> done {make programme}
+Minimum Partition
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Rod Cutting
+Coin change problem
+Word Break Problem
+Box Stacking
+Egg Dropping Puzzle
+Dice Throw Problem
+
+Greedy algorithm
+-------------------
+Activity Selection Problem
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree Algorithm
+Prim’s MST for Adjacency List Representation
+Dijkstra’s Shortest Path Algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Job Sequencing Problem
+Graph coloring
+
+DP others
+--------------
+Minimum replacements to make adjacent characters unequal in a ternary string | Set-2
+Minimum cost to reach a point N from 0 with two different operations allowed
+Check if it is possible to get back to 12'0 clock only by adding or subtracting given seconds
+Printing Matrix Chain Multiplication (A Space Optimized Solution)
+Minimum Operations to make value of all vertices of the tree Zero
+Minimum Cost to make two Numeric Strings Identical
+Maximum path sum in an Inverted triangle | SET 2
+Ways to place K bishops on an N×N chessboard so that no two attack
+Count no. of ordered subsets having a particular XOR value
+Ways to write N as sum of two or more positive integers | Set-2
+Possible cuts of a number such that maximum parts are divisible by 3
+Number of balanced bracket expressions that can be formed from a string
+Count of Numbers in a Range divisible by m and having digit d in even positions
+Minimum sum falling path in a NxN grid
+Maximum length subsequence such that adjacent elements in the subsequence have a common factor
+
+Bitwise questions   --> one
+-------------------------
+Detect if two integers have opposite signs   done
+Add 1 to a given number    --> done
+Multiply a given Integer with 3.5
+Turn off the rightmost set bit    -->. done
+Find whether a given number is a power of 4 or not
+Compute modulus division by a power-of-2-number
+Rotate bits of a number  --> done
+Find the Number Occurring Odd Number of Times
+Check for Integer Overflow
+Count set bits in an integer  --> done
+Count number of bits to be flipped to convert A to B
+Efficient way to multiply with 7
+Program to find whether a no is power of two
+Position of rightmost set bit
+Binary representation of a given number
+Find position of the only set bit
+How to swap two numbers without using a temporary variable?  --> done
+Swap two nibbles in a byte   --> done
+How to turn off a particular bit in a number? --> done
+Russian Peasant (Multiply two numbers using bitwise operators)
+Add two bit strings
+Write your own strcmp that ignores cases
+Check if two numbers are equal without using arithmetic and comparison operators
+Find XOR of two number without using XOR operator
+

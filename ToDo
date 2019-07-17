@@ -1,0 +1,70 @@
+tomcat
+design whats app
+
+
+data structure
+-----------------
+sort arrays 0,1,2;   done
+spiral loop matrix   done
+rotate matrix by 90  done
+postfix evaluation   done
+search an element in an unsorted array using minimum comparision   done
+
+--> make architecture diagram for video streaming
+
+--> functionality of own-cloud
+--> architecture diagram for own-cloud
+
+
+poc
+----------
+video recording poc on spring + mongoDB
+
+  --> record the video from an existing video or url    done
+  --> play the recorded video into html (storing it on file system) done
+  --> play the recorded video into html (store the video on mongoDB)    done
+
+--> save all links to DB                             done
+--> rest API to get all download links               done
+--> read video file from url                         done
+--> how to capture stream from videoStreaming poc  
+     --> search file via meta data           done
+     --> save file in async mode             done
+
+          --> make executor service for submitting task like uploading. done
+          --> stop recording uof a particular file.
+          --> show percentage of recording.
+         
+
+
+  
+own cloud                  --> project has been initailized on gitLab
+----------------
+Features:
+----------
+upload/view/download file
+dashboard view to user 
+   --> users last activities
+   --> random suggestion for files which user uploaded like (on this day you have uploaded these files)
+share files to other users
+payment gateway integration
+Login module
+
+-------------------------------------------------------------------------------------
+Authentication and Authorization
+--------------------------------
+
+User authentication
+-----------------
+user scans the quiz QR code, the application will ask for their phone.
+upon successfull verification of OTP, in response it will return the token and user will get redirected to quiz page.
+
+user submit the quiz iwth token.
+
+
+
+
+
+
+
+   

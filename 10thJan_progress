@@ -1,0 +1,125 @@
+--> move all zeros to end of array   --> done
+--> merge overlapping intervals   --> done
+--> next greater element   --> done
+--> Find the smallest window in a string containing all characters of another string  --> done   {understand it more, make programme for full understanding}
+--> smallest window that contains all character of string  --> {understand and make programme}
+--> find orignal array from encrypted array   --> {make programme}
+
+--> print nodes k distance away from root (iteratove and recursive)  --> done
+--> Print all nodes at distance k from a given node  --> done {understand it}
+--> Print all nodes that are at distance k from a leaf node   --> done
+--> make mirror image   --> done
+--> check if two trees are mirror  --> done
+--> print all k-sum path in binary tree   --> done
+--> binary tree to DLL  --> done
+--> if binary tree is heght balanced  --> done
+
+
+--> max width of binary tree     --> done
+
+--> Diameter of a Binary Tree     --> done
+--> convert a tree to its sum tree   --> done
+--> root to leaf path sum to a given value  --> done
+--> check if bnary tree is BST  --> done
+
+--> find middle of a given linked list   --> done
+--> Transform One String to Another using Minimum Number of Given Operation   --> done 
+
+--> minimum edit distance  --> {make programme}   --> done
+
+no of digits in fractional part a/b  {Count number of digits after decimal on dividing a number}
+no of digits before decimal --> donestring to
+
+find distinct pairs with given sum    --> done
+external merge sort  --> done {make programme}
+merge K sorted array of same size --> done {run programme}
+
+merge K sorted array of different size 
+reverse linked list  --> done
+
+--> BFS/DFS of graph   --> done
+--> routes between two node  --> done
+
+--> topological sorting  --> done
+--> detect cycle in Directed graph   --> done
+--> union find algorithm   --> done
+--> detect cycle in undirected graph  ---> done
+--> kruskals algo  --> done
+--> Prims algo  --> done
+--> shortest path (dijakastras with adjancey list)  --> done
+
+--> a tree is subtree of other  --> done
+
+--> distance between two nodes
+--> zig zag traversal of a tree  --> {make programme for this}
+--> shuffle deck of cards
+
+--> rat in a maze
+--> shortest path from 0,0 to n-1,n-1 both recursive and DP.
+--> find if there is a path between two cells in a matrix.
+--> count no. of ways to reach a particular point in a matrix.
+
+--> eight queen
+--> knight tour
+--> graph coloring
+--> job sequnecing problem
+--> tower of hanoi
+--> paint fill
+--> exchange coins
+--> stack of boxes
+--> power set
+--> magic index
+--> stair case (minimum distance to cover)
+
+
+
+--> computing rank in BST
+--> weighed tree
+--> Find running median from a stream of integers [duplicate]
+--> find media of two sorted arrays
+--> A* tree
+--> shuffling algo for deck of cards
+
+--> activity selection problem
+
+
+
+SystemDesign : https://github.com/donnemartin/system-design-primer#step-1-review-the-scalability-video-lecture
+
+{https://github.com/Aksh77/ACM-Team-Notebook}  --> write all questions.
+
+1	Basic DP Algorithm Implementations	DP implementations of Subset Sum problem, Fibonacci, Number of ways to cover a distance
+2	Breadth First Search	                Program to print BFS traversal from a given source vertex check
+3	C++ STL	Reference Sheet for C++ STL- Map, Stack, Queue, Priority Queue, List, Deque, Vector
+4	Depth First search	                Program to print DFS traversal from a given vertex check
+5	Dijkstra's Algo	Program for Dijkstra's single source shortest path algorithm check
+6	Floyd Warshall Algorithm	        Program to find shortest distances between every pair of vertices in a given edge-weighted directed Graph check
+7	Geometry Algorithms	                Code snippets for Geometry based questions
+8	KMP Algorithm	                        Program to find all occurrences of a given pattern in a string
+9	Knapsack Problem	                Program to solve Knapsack Problems (get the maximum total value in the knapsack)
+10	Library Functions	                Reference sheet for library functions- Mathematical Functions, String and Character functions
+11	Longest Increasing Subsequence		DP implementation of algorithm to find the longest increasing subsequence of an Array
+12	Longest common subsequence		DP implementation of algorithm to find the longest common subsequence of 2 strings
+13	Maximum Sub-Array			Program to find the subarray with the largest sum
+14	Miller Rabin primality Test		Probabilistic algorithm to check primality of large numbers
+15	Modulo Arithmetic Algorithms		Modular Arithmetic programs- Euclid's Algorithm to find GCD, and Modular Exponentiation
+16	Prefix Sum Array			Program to print the prefix-sum (cumulative sum) of an array
+17	Prime factors				Program to find all prime factors of a number
+18	Rabin-Karp Algorithm			Program to find all occurrences of a given pattern in a string
+19	Ray Casting Algorithm			Check whether a point is within a given polygon
+20	Segmented Sieve of Eratosthenes	Program to find prime numbers upto n using Segmented Sieve of Eratosthenes
+
+
+Design
+--------
+Google Docs System design {https://www.youtube.com/watch?v=2auwirNBvGg}   --> done {read abut operational transformation}
+
+--> JPA entity lifecycle
+--> Accessing the EntityManager From Spring Data JPA
+
+@Basic
+@Enumerated
+@Temporal
+
+Install virtual box --> done
+Install windows image --> window 7 or above
